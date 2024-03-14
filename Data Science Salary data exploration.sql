@@ -1,3 +1,6 @@
+/*
+data sience salary Data Exploration 
+*/
 /*Breakdown of Work Models by Current Count */
 SELECT work_models, COUNT(*) AS current_number
 FROM WORK_MOD
